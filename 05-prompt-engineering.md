@@ -1,4 +1,6 @@
 # Prompt Engineering — The Art of Talking to AI
+![1785757676600](image/05-prompt-engineering/1785757676600.png)
+https://www.hostinger.com/in/tutorials/prompt-engineering-best-practices/?utm_source=google&utm_medium=cpc&utm_id=11181890096&utm_campaign=Generic-Tutorials-DSA-t1|NT:Se|Lang:EN|LO:IN&utm_term=&utm_content=798203172875&gad_source=1&gad_campaignid=11181890096&gbraid=0AAAAADMy-haL7ELRaoEvjkfw8i6z32l4g
 
 ## The Problem
 

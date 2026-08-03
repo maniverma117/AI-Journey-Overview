@@ -1,5 +1,6 @@
 # Agentic AI Frameworks — Building Blocks for AI Applications
-
+![1785759834282](image/12-agentic-frameworks/1785759834282.png)
+https://blog.jetbrains.com/pycharm/2026/06/top-agentic-frameworks-for-building-applications-2026/
 ## The Problem: Building Everything from Scratch
 
 You want to build an AI agent that:

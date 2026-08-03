@@ -1,4 +1,5 @@
 # Deep Learning — Machines That Discover Their Own Features
+![1785757192205](image/02-deep-learning/1785757192205.png)
 
 ## The Problem with Machine Learning
 

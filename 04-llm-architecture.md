@@ -1,4 +1,7 @@
 # Large Language Models — Complete Architecture Deep Dive
+![1785757425976](image/04-llm-architecture/1785757425976.png)
+![1785757622565](image/04-llm-architecture/1785757622565.png)
+https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
 
 ## What is an LLM?
 

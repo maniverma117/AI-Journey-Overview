@@ -1,4 +1,6 @@
 # Machine Learning — Teaching Machines to Learn from Data
+![1785757079866](image/01-machine-learning/1785757079866.png)
+![1785757152920](image/01-machine-learning/1785757152920.png)
 
 ## The Problem Before Machine Learning
 
