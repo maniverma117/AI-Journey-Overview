@@ -1,4 +1,9 @@
 # AWS Bedrock AgentCore — Production Infrastructure for AI Agents
+![1785760334153](image/13-aws-bedrock-agentcore/1785760334153.png)
+![1785760372472](image/13-aws-bedrock-agentcore/1785760372472.png)
+![1785760465762](image/13-aws-bedrock-agentcore/1785760465762.png)
+https://catalog.workshops.aws/agentcore-deep-dive/en-US/10-fundamentals
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness.html
 
 ## The Problem: From Demo to Production
 

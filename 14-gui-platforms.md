@@ -1,5 +1,8 @@
 # GUI Platforms for AI Apps — No-Code/Low-Code AI Building
-
+![1785760551911](image/14-gui-platforms/1785760551911.png)
+https://medium.com/accredian/amazon-quick-suite-building-ai-agents-without-the-heavy-lifting-ef5865876033
+https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant
+https://builder.aws.com/content/3D8yhqAkMdXKF9DAdkJWjGMKonU/amazon-quick-the-agentic-ai-that-finally-understands-how-you-actually-work
 ## The Problem: Not Everyone Codes
 
 You've seen how to build AI agents with Python:
