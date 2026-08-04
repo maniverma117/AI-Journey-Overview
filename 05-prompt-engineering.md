@@ -400,6 +400,6 @@ It works because:
 
 ---
 
-## Next → [06-context-engineering.md](./06-context-engineering.md)
+## Next → [06-tool-calling.md](./06-tool-calling.md)
 
 > What if the model needs 50 pages of documentation, user history, real-time data, AND your instructions? You can't fit it all in one prompt. Context Engineering is the art of choosing WHAT goes into the limited context window.

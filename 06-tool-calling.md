@@ -467,6 +467,6 @@ Security:
 
 ---
 
-## Next → [09-ai-agents.md](./09-ai-agents.md)
+## Next → [07-ai-agents.md](./07-ai-agents.md)
 
 > What happens when you give the model a GOAL instead of a question, let it decide WHICH tools to call, in WHAT order, and let it LOOP until it's done? That's an AI Agent — an autonomous problem-solving loop.

@@ -392,6 +392,6 @@ Components:
 
 ---
 
-## Next → [07-harness-engineering.md](./07-harness-engineering.md)
+## Next → [11-harness-engineering.md](./11-harness-engineering.md)
 
 > The model is powerful. The context is well-assembled. But who ORCHESTRATES everything? Who decides when to call tools, when to retrieve documents, when to ask for clarification? The Harness is the engineering system that makes it all work together.

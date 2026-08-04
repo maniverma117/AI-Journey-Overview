@@ -492,6 +492,6 @@ Guardrails:
 
 ---
 
-## Next → [10-mcp.md](./10-mcp.md)
+## Next → [08-mcp.md](./08-mcp.md)
 
 > Every agent needs tools. But what if you have 50 different AI apps that all need access to the same tools? Do you rebuild integrations for each one? MCP (Model Context Protocol) is a standard that lets any AI app connect to any tool through one universal protocol.

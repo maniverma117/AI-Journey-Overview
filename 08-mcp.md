@@ -479,6 +479,6 @@ Key risk: Trust boundaries — MCP servers are external code.
 
 ---
 
-## Next → [11-rag-knowledge-base.md](./11-rag-knowledge-base.md)
+## Next → [09-rag-knowledge-base.md](./09-rag-knowledge-base.md)
 
 > Tools let the model ACT. But what about KNOWLEDGE? What if the model needs to answer questions about YOUR documents, YOUR code, YOUR policies? RAG (Retrieval-Augmented Generation) gives the model a knowledge base — without retraining it.

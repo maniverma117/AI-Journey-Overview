@@ -542,6 +542,6 @@ Key decisions:
 
 ---
 
-## Next → [12-agentic-frameworks.md](./12-agentic-frameworks.md)
+## Next → [10-context-engineering.md](./10-context-engineering.md)
 
 > You now understand ML, Deep Learning, Transformers, LLMs, Prompts, Context, Harnesses, Tools, Agents, MCP, and RAG. But building all of this from scratch for every project is exhausting. Agentic AI Frameworks (LangChain, LangGraph, CrewAI, AutoGen, Strands) provide building blocks so you don't reinvent the wheel.

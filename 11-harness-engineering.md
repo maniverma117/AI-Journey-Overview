@@ -448,6 +448,6 @@ The harness handles:
 
 ---
 
-## Next → [08-tool-calling.md](./08-tool-calling.md)
+## Next → [12-agentic-frameworks.md](./12-agentic-frameworks.md)
 
 > The LLM can think but it can't ACT. It can't check the weather, query a database, or send an email. Tool Calling gives the model hands — allowing it to interact with the real world through controlled function execution.
