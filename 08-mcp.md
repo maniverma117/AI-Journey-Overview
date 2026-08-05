@@ -1,6 +1,7 @@
 # MCP — Model Context Protocol (The Universal Connector)
 ![1785759327375](image/08-mcp/1785759327375.png)
 https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro
+
 https://www.backslash.security/blog/what-is-mcp-model-context-protocol
 ## The Problem: Integration Chaos
 
