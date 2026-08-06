@@ -3,6 +3,8 @@
 https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro
 
 https://www.backslash.security/blog/what-is-mcp-model-context-protocol
+
+https://github.com/punkpeye/awesome-mcp-servers
 ## The Problem: Integration Chaos
 
 Imagine you have 5 AI applications:
