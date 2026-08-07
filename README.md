@@ -25,6 +25,25 @@ A **progressive learning series** that teaches AI from absolute scratch. Each to
 | 13 | GUI Platforms for AI Apps | [13-gui-platforms.md](./13-gui-platforms.md) | 2025+ |
 | 14 | AWS Bedrock AgentCore & Harness | [14-aws-bedrock-agentcore.md](./14-aws-bedrock-agentcore.md) | 2025 |
 
+
+---
+| # | Topic | File | Era |
+|---|-------|------|-----|
+| 01 | Machine Learning | [01-machine-learning.md](./01-machine-learning.md) | 1990s–2010s |
+| 02 | Deep Learning | [02-deep-learning.md](./02-deep-learning.md) | 2006–2016 |
+| 03 | Transformers & Attention | [03-transformers.md](./03-transformers.md) | 2017 |
+| 04 | Large Language Models (Architecture) | [04-llm-architecture.md](./04-llm-architecture.md) | 2018–2022 |
+| 05 | RAG (Knowledge Base) | [05-rag-knowledge-base.md](./05-rag-knowledge-base.md) | 2020–2023 |
+| 06 | Prompt Engineering | [06-prompt-engineering.md](./06-prompt-engineering.md) | 2022–2023 |
+| 07 | Tool Calling | [07-tool-calling.md](./07-tool-calling.md) | 2023 |
+| 08 | Context Engineering | [08-context-engineering.md](./08-context-engineering.md) | 2024 |
+| 09 | AI Agents | [09-ai-agents.md](./09-ai-agents.md) | 2024 |
+| 10 | Agentic AI Frameworks | [10-agentic-frameworks.md](./10-agentic-frameworks.md) | 2024 |
+| 11 | MCP (Model Context Protocol) | [11-mcp.md](./11-mcp.md) | 2024–2025 |
+| 12 | Harness Engineering | [12-harness-engineering.md](./12-harness-engineering.md) | 2025 |
+| 13 | AWS Bedrock AgentCore & Harness | [13-aws-bedrock-agentcore.md](./13-aws-bedrock-agentcore.md) | 2025 |
+| 14 | GUI Platforms for AI Apps | [14-gui-platforms.md](./14-gui-platforms.md) | 2025+ |
+
 ---
 
 ## 🎯 How to Use This Series
