@@ -2,6 +2,8 @@
 ![1785757234848](image/03-transformers/1785757234848.png)
 ![1785757380246](image/03-transformers/1785757380246.png)
 https://poloclub.github.io/transformer-explainer/
+
+https://arxiv.org/abs/1706.03762v1
 ## The Problem with Previous Approaches
 
 Before Transformers, we used RNNs (Recurrent Neural Networks) for language.
